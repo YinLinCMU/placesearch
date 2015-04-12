@@ -1,4 +1,5 @@
 # placesearch
+android app using google map API
 ##functions
 - get current location's coordinates
 - enter place with autocomplete
